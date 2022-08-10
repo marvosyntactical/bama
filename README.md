@@ -1,2 +1,4 @@
-# bama
-Bachelor Thesis in Mathematics
+# Bachelor Thesis Mathematics
+
+See bsc\_thesis.pdf.
+

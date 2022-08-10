@@ -1,3 +1,8 @@
+* [DONE] sigma algebra der zylindermengen
+* [DONE] dXs maß einfuehren wie in wt2 §11.04; bei SDGLn diff notation anfangsdatum hinzufügen.
+* [DONE] fokker planck gleichung aufschreiben ohne transition kernel (finde ref)
+* [TODO] lokal linear beschr wachstum von FN(drift kernel des gesamten systems)
+
 # Gespraech 20.07.
 
 * [DONE] einfache funktionen dicht in W\_H zu zeigen, beweis sollte straightforward sein, kann ich den auslassen? 
